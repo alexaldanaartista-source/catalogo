@@ -1,13 +1,13 @@
 ---
-title: description
+title: PRUEBAX
 lang: es
 ---
-Esta es una muestra de un sitio hecho con Refracta: una herramienta de código abierto para generar catálogos digitales de bajo costo para colecciones artísticas y de patrimonio digital. 
+Esta es una muesPRUEBAXho conPRUEBAXXal. 
 
 <!-- more -->
 
 
-Refracta es una implementación de [MOREL](http://morelrep.github.io) para objetos digitales de valor visual. Ensambla servicios gratuitos de almacenamiento (Archive.org/Wikimedia Commons), gestión de bases de datos (Zotero) y ejecución de eventos y tareas (GitHub Actions), para facilitar la gestión de catálogos digitales a galerías pequeñas, artistas independientes e instituciones públicas desfinanciadas.
+PRUEBAXXRefracta es una implementación de [MOREL](http://morelrep.github.io) para objetos digitales de valor visual. Ensambla servicios gratuitos de almacenamiento (Archive.org/Wikimedia Commons), gestión de bases de datos (Zotero) y ejecución de eventos y tareas (GitHub Actions), para facilitar la gestión de catálogos digitales a galerías pequeñas, artistas independientes e instituciones públicas desfinanciadas.
 
 
 Refracta permite organizar las obras en listas dinámicas, agrupándolas de acuerdo a características en común como:
