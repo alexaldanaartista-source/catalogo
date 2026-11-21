@@ -6,7 +6,7 @@ image : avatar.png  # Add a file with a copy of your site's avatar on /assets/im
 email : refractaservicio@gmail.com
 github : refractaservicio
 twitter :
-instagram:GUYT
+instagram: GUYT
 podcast: # Set to true if you want to enable podcast or blog support
 jotform: 
 bsky: 
